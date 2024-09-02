@@ -13,6 +13,12 @@
         android:theme="@style/Theme.CarbonFootprint"
         tools:targetApi="31">
         <activity
+            android:name=".Signup"
+            android:exported="false" />
+        <activity
+            android:name=".FinalActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity6"
             android:exported="false" />
         <activity
